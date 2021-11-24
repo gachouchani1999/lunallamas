@@ -493,7 +493,7 @@ section {
   padding-bottom: 30px;
 }
 .section-title h2 {
-  font-size: 32px;
+  font-size: 70px;
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -521,6 +521,10 @@ section {
 }
 .section-title p {
   margin-bottom: 0;
+  font-size: 20px;
+  font-weight:700;
+  color:darkblue;
+  border-radius: 5cm;
 }
 
 /*--------------------------------------------------------------
@@ -648,7 +652,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .container {
   box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
-  background: rgb(47, 255, 19);
+  background: rgb(255, 255, 255);
 }
 .why-us .icon-box + .icon-box {
   margin-top: 50px;
